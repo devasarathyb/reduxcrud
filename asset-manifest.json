@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reduxcrud/static/css/main.a1f82ea5.css",
+    "main.js": "/reduxcrud/static/js/main.d5415a12.js",
+    "static/js/787.39fa132f.chunk.js": "/reduxcrud/static/js/787.39fa132f.chunk.js",
+    "static/media/logo.svg": "/reduxcrud/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reduxcrud/index.html",
+    "main.a1f82ea5.css.map": "/reduxcrud/static/css/main.a1f82ea5.css.map",
+    "main.d5415a12.js.map": "/reduxcrud/static/js/main.d5415a12.js.map",
+    "787.39fa132f.chunk.js.map": "/reduxcrud/static/js/787.39fa132f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f82ea5.css",
+    "static/js/main.d5415a12.js"
+  ]
+}
